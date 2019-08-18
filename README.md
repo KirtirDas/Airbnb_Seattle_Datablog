@@ -41,5 +41,5 @@ The result output can be found in the blog link as below:
     https://medium.com/@das.kirtirjasaswini/airbnb-seattle-how-to-provide-a-decent-stay-and-attract-customers-c3c8f485cee0
 6. Acknowledgments
 I reffered code that has been developed by:
-  Some of the git hub earlier submittions. Thank You.
+  Other of the git hub submittions. Thank You.
   
